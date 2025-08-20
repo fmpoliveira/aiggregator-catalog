@@ -6,6 +6,7 @@
 ### Categories
 - [AI Development Frameworks](#ai-development-frameworks)
 - [AI Platforms](#ai-platforms)
+- [E-commerce Platforms](#e-commerce-platforms)
 - [JavaScript Frameworks](#javascript-frameworks)
 <!-- CATEGORY ANCHORS END -->
 
@@ -14,6 +15,9 @@
 
 ### AI Platforms
 - [i10X](https://i10x.ai/): i10X is an AI marketplace offering access to over 500 specialized AI agents and top models for diverse tasks, including creativity, marketing, design, and productivity. It provides these tools at a competitive subscription rate, ensuring high-quality performance with expert-designed functionalities for various applications.
+
+### E-commerce Platforms
+- [Dropmagic](https://dropmagic.ai/): Dropmagic is an AI-powered store builder that creates fully branded and optimized Shopify e-commerce stores in minutes. Users can import products from platforms like AliExpress and have their store auto-generated with design and content, ready for immediate customization and publication.
 
 ### JavaScript Frameworks
 - [React](https://react.dev): React is a JavaScript library for building user interfaces using components, enabling developers to create web and native apps efficiently. It supports interactivity, integrates with frameworks like Next.js, and fosters a global community. React's architecture allows seamless data fetching and rendering across platforms, enhancing user experience.
