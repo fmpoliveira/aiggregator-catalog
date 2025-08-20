@@ -7,6 +7,7 @@
 - [AI Development Frameworks](#ai-development-frameworks)
 - [AI Platforms](#ai-platforms)
 - [JavaScript Frameworks](#javascript-frameworks)
+- [No-Code Platforms](#no-code-platforms)
 <!-- CATEGORY ANCHORS END -->
 
 ### AI Development Frameworks
@@ -17,3 +18,6 @@
 
 ### JavaScript Frameworks
 - [React](https://react.dev): React is a JavaScript library for building user interfaces using components, enabling developers to create web and native apps efficiently. It supports interactivity, integrates with frameworks like Next.js, and fosters a global community. React's architecture allows seamless data fetching and rendering across platforms, enhancing user experience.
+
+### No-Code Platforms
+- [FoxyApps](https://www.foxyapps.com/): FoxyApps is a no-code platform empowering users to build, host, and monetize AI tools for niche audiences. It offers templates, custom domains, design options, and supports multiple monetization models. Ideal for non-developers to launch micro SaaS businesses rapidly.
