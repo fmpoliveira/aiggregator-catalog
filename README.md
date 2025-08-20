@@ -4,9 +4,13 @@
 
 <!-- CATEGORY ANCHORS START -->
 ### Categories
+- [AI Development Frameworks](#ai-development-frameworks)
 - [AI Platforms](#ai-platforms)
 - [JavaScript Frameworks](#javascript-frameworks)
 <!-- CATEGORY ANCHORS END -->
+
+### AI Development Frameworks
+- [Llama Stack Apps](https://github.com/llamastack/llama-stack-apps): Llama Stack Apps provide agentic components for building generative AI applications. They enable multi-step reasoning, tool execution, and safety checks using Llama models. Developers can set up a server and connect client apps to efficiently create AI-driven systems with built-in tools and standardized APIs.
 
 ### AI Platforms
 - [i10X](https://i10x.ai/): i10X is an AI marketplace offering access to over 500 specialized AI agents and top models for diverse tasks, including creativity, marketing, design, and productivity. It provides these tools at a competitive subscription rate, ensuring high-quality performance with expert-designed functionalities for various applications.
