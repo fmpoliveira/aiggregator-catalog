@@ -10,6 +10,7 @@
 <!-- CATEGORY ANCHORS END -->
 
 ### AI Development Frameworks
+- [AutoGen](https://github.com/microsoft/autogen): AutoGen is a framework for developing agentic AI applications, enabling the creation of autonomous multi-agent systems and human-agent collaboration. It offers a layered design, APIs for rapid prototyping, and tools for agent performance evaluation and no-code application development.
 - [Llama Stack Apps](https://github.com/llamastack/llama-stack-apps): Llama Stack Apps provide agentic components for building generative AI applications. They enable multi-step reasoning, tool execution, and safety checks using Llama models. Developers can set up a server and connect client apps to efficiently create AI-driven systems with built-in tools and standardized APIs.
 
 ### AI Platforms
