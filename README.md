@@ -3,9 +3,9 @@
 ## Table of Contents
 
 <!-- CATEGORY ANCHORS START -->
-### Categories
 - [AI Platforms](#ai-platforms)
 - [JavaScript Frameworks](#javascript-frameworks)
+- [Productivity Tools](#productivity-tools)
 <!-- CATEGORY ANCHORS END -->
 
 ### AI Platforms
@@ -13,3 +13,6 @@
 
 ### JavaScript Frameworks
 - [React](https://react.dev): React is a JavaScript library for building user interfaces using components, enabling developers to create web and native apps efficiently. It supports interactivity, integrates with frameworks like Next.js, and fosters a global community. React's architecture allows seamless data fetching and rendering across platforms, enhancing user experience.
+
+### Productivity Tools
+- [Taskade AI](https://www.taskade.com/ai/): Taskade AI is a comprehensive AI-powered productivity tool designed to enhance workflows and communication for teams of any size. It offers customizable AI agents, templates, automation, and AI chat functions to optimize task management and collaboration, positioning itself as a forefront solution in future work environments.
