@@ -6,6 +6,7 @@
 ### Categories
 - [AI Development Frameworks](#ai-development-frameworks)
 - [AI Platforms](#ai-platforms)
+- [AI Voice Synthesis Platforms](#ai-voice-synthesis-platforms)
 - [JavaScript Frameworks](#javascript-frameworks)
 <!-- CATEGORY ANCHORS END -->
 
@@ -14,6 +15,9 @@
 
 ### AI Platforms
 - [i10X](https://i10x.ai/): i10X is an AI marketplace offering access to over 500 specialized AI agents and top models for diverse tasks, including creativity, marketing, design, and productivity. It provides these tools at a competitive subscription rate, ensuring high-quality performance with expert-designed functionalities for various applications.
+
+### AI Voice Synthesis Platforms
+- [ElevenLabs](https://elevenlabs.io/): ElevenLabs provides a realistic AI voice generation platform enabling creators, developers, and enterprises to produce lifelike audio content for applications such as voiceovers, audiobooks, dubbing, and conversational AI with multi-language support and emotional depth.
 
 ### JavaScript Frameworks
 - [React](https://react.dev): React is a JavaScript library for building user interfaces using components, enabling developers to create web and native apps efficiently. It supports interactivity, integrates with frameworks like Next.js, and fosters a global community. React's architecture allows seamless data fetching and rendering across platforms, enhancing user experience.
